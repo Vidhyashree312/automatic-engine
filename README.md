@@ -44,3 +44,5 @@ More AI-based personalization features.
 
 About Me
 I’m Vidhyashree, a passionate UI/UX Designer who believes in crafting user-centric and elegant digital experiences.
+
+"Design is not just what it looks like and feels like. Design is how it works." — Steve Jobs
